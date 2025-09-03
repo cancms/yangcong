@@ -1,8 +1,29 @@
 .container {
 
 }
-.contact-info p {
 
+.about-p-link {
+        .sep:last-child {
+            display: none;
+        }
 }
 
 
+.papers {
+    .journal {
+        font-style: italic;
+        color: #4c956c;
+    }
+    h5 {
+        margin: 4rem 0 0 0;
+    }
+}
+.awards {
+    .awards-title {
+        color: #224b8d;
+    }
+    .awards-desc{
+        font-style: italic;
+        padding: 0  0 0  1rem;
+    }
+}
