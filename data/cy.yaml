@@ -1,0 +1,18 @@
+about:
+  name: "Cong Yang"
+  school: "Sauder School of Business, UBC, Vancouver, BC, Canada, V6G 1P5"
+  phone: "408-497-4379"
+  email: "cong.yang@sauder.ubc.ca"
+  links:
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=lkP7MqAAAAAJ&hl=en&oi=sra"
+    - name: "CV"
+      url: "file/cv.pdf"
+
+  about_me: |
+    
+    I’m currently an assistant professor at the Wisconsin School of Business, in the Operations and Information Management group. My research focuses on the development of novel artificial intelligence and operations research methodologies to address significant problems in healthcare operations and policy. I obtained my PhD from MIT Operations Research Center under the guidance of Dimitris Bertsimas, and my BA from UC Berkeley's Applied Mathematics department. I will be moving this site soon, stay tuned.
+
+    **If you are interested in working with me, please don't hesitate to reach out**.
+    
+  education:
